@@ -1,4 +1,4 @@
-<h1>Olá, eu sou a Maria Paula 👋</h1>
+<h1>Olá, eu me chamo Maria Paula 👋</h1>
 
 **Estudante de Sistemas de Informação | Cibersegurança & Redes** · Curitiba/PR
 
