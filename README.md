@@ -31,13 +31,13 @@ Sou técnica em Informática e estudo Sistemas de Informação, com formação c
 
 ### 📜 Formação e certificações
 
-| | |
-|---|---|
-| 🎓 Bacharelado em Sistemas de Informação | Gran Faculdade · 2026 – 2030 (em andamento) |
-| 🎓 Técnico em Informática | TECPUC (Grupo Marista) · 2012 – 2015 |
-| 🏅 Introdução à Cibersegurança | Cisco Networking Academy · jun/2026 |
-| 🏅 Conceitos Básicos de Redes | Cisco Networking Academy · jul/2026 |
-| 🏅 Dispositivos de Rede e Configuração Inicial | Cisco Networking Academy · set/2026 |
+| |
+|---|
+| 🎓 Bacharelado em Sistemas de Informação | 
+| 🎓 Técnico em Informática |
+| 🏅 Introdução à Cibersegurança | 
+| 🏅 Conceitos Básicos de Redes | 
+| 🏅 Dispositivos de Rede e Configuração Inicial |
 
 ### 🤝 Contato
 
